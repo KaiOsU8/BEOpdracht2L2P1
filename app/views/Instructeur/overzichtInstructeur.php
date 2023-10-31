@@ -17,7 +17,7 @@
         <p>Aantal instructeurs <?= $data['amount'] ?></p>
         <table>
             <thead>
-                <th></th>
+                <th>Voornaam</th>
                 <th>Tussenvoegsel</th>
                 <th>Achternaam</th>
                 <th>Mobiel</th>
