@@ -9,17 +9,17 @@ body{
 }
 
 td{
-border: 1px solid #000;
-background: #D9D9D9;
+border: 1px solid #ffffff;
+background: #000000;
 text-align: center;
 }
 
 p{
-color: #f6ff00;
+color: #ff0000;
 }
 
 table{
-background: #4800ff;
+background: #357224;
 background-size: contain;
 text-align: center;
 }
